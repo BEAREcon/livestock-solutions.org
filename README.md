@@ -1,4 +1,4 @@
-Here is the BEAR / ADB project source .hmtl file. Date 4.10.26
+Here is most recent website version 1.4.10.26
 
 INSTRUCTIONS TO MAKE CHANGES TO WEBPAGE:
 
