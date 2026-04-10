@@ -10,7 +10,7 @@ credentials:
 dwrh@berkeley.edu
 D01Suthep
 
-3. Scroll down to Bearfound.org section. Open CPanel icon.
-4. Use seach bar in right hand top corner to search "File Manager"
-5. Select livestock-solutions from left hand menu
-6. Replace the index.html file therein with your new .html website file version. 
+2. Scroll down to Bearfound.org section. Open CPanel icon.
+3. Use seach bar in right hand top corner to search "File Manager"
+4. Select livestock-solutions from left hand menu
+5. Replace the index.html file therein with your new .html website file version. 
